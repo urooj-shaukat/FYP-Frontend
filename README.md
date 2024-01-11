@@ -30,7 +30,7 @@ Welcome to the ProGrade frontend repository! This project is the frontend implem
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/prograde-frontend.git](https://github.com/urooj-shaukat/FYP-Frontend.git)
+   git clone https://github.com/urooj-shaukat/prograde-frontend.git
    cd FYP-Frontend
    ```
 
